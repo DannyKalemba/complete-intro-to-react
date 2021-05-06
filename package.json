@@ -17,7 +17,7 @@
     "axios": "0.21.1",
     "express": "4.14.0",
     "history": "^4.4.0",
-    "lodash": "4.17.20",
+    "lodash": "4.17.21",
     "preact": "^6.4.0",
     "preact-compat": "^3.9.3",
     "preact-render-to-string": "^3.3.0",
